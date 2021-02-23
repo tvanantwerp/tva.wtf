@@ -1,0 +1,14 @@
+{
+  "name": "tva.wtf",
+  "version": "1.0.0",
+  "description": "A URL shortener for tva.wtf.",
+  "main": "index.js",
+  "homepage": "https://tva.wtf",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
